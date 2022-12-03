@@ -6,4 +6,4 @@
   Multiplication
   Division
 # Setup
-npx typescript-cli-calc
+npx cli-animated-calculator
